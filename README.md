@@ -2,7 +2,7 @@
 
 Dev container for Raspberry Pi Pico development
 
-Contains complete preconfigured Raspberyy Pi Pico RP2040 development evnironment.
+Contains complete preconfigured Raspberry Pi Pico RP2040 development evnironment.
 Just add your project files and start building and debugging right away.
 
 For exact building procedures please refer to 
